@@ -1,3 +1,7 @@
+---
+layout: default
+title: History of Kent ... With original sketches and maps
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
